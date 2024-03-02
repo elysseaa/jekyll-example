@@ -1,0 +1,7 @@
+body { font-family: sans-serif; text-align: center; background-color: #faf3dd; color: #22223b; }
+h1 { padding: 40px; display: flex; justify-content: space-evenly; background-color: #40798c; color: #faf3dd; }
+div { padding: 20px; background-color: white; margin: 1.5em; }
+
+table { border-collapse: collapse; margin: 1.5em auto; table-layout: fixed; background-color: white; table-layout: auto; width: 1000px; }
+table th { background-color: #9ec1a3; border: 1px solid gray; padding: 8px; }
+table td { border: 1px solid gray; padding: 8px; overflow: hidden; }
